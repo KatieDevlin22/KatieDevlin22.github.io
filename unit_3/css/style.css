@@ -1,6 +1,10 @@
 body {
-	background-image: url("group_1.jpg");
-	background-size: 510px;
+	background-image: url("images/group_1.jpg");
+	background-size: cover;
+	
+}
+
+h1 {
 	
 }
 

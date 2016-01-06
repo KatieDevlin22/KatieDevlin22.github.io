@@ -20,7 +20,7 @@
 }
 
 #menu {
-    background-color: #003e7e
+    background-color: #fffff
     color: #fffff;
     font-size: 12px;
     font-weight: 900;
@@ -49,12 +49,12 @@
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
-    color: #fff;
+    color: #fffff;
     background-attachment: fixed;
 }
 
     .home-sec .overlay {
-        background: rgba(255, 255, 255, 0.89);
+        background: rgba(255, 255, 255, 0.75);
         min-height: 500px;
     }
 

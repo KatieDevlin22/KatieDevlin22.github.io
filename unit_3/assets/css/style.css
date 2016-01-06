@@ -21,7 +21,7 @@
 
 #menu {
     background-color: #003e7e
-    color: #406e9e;
+    color: #fffff;
     font-size: 12px;
     font-weight: 900;
     letter-spacing: 1px;
@@ -34,7 +34,7 @@
 }
 
     .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > li > a:hover {
-        color: #fffff;
+        color: #003e7e;
         padding: 22px 10px;
     }
 
@@ -54,7 +54,7 @@
 }
 
     .home-sec .overlay {
-        background: rgba(0, 0, 0, 0.89);
+        background: rgba(255, 255, 255, 0.89);
         min-height: 500px;
     }
 

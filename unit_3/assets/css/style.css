@@ -1,18 +1,4 @@
-﻿/*=============================================================
-    Authour URI: www.binarytheme.com
-    License: Commons Attribution 3.0
-
-    http://creativecommons.org/licenses/by/3.0/
-
-    100% To use For Personal And Commercial Use.
-    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
-   
-    ========================================================  */
-
-/* =============================================================
-   GENERAL STYLES
- ============================================================ */
-body {
+﻿body {
     font-family: 'Open Sans', sans-serif;
     line-height: 30px;
     font-size: 14px;
@@ -116,7 +102,7 @@ body {
         font-size: 20px;
         font-weight: 900;
         padding: 5px 10px 10px 5px;
-        color: #005E5A;
+        color: #406e9e;
     }
 
         .tag-line h2 > i {

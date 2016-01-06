@@ -34,7 +34,7 @@
 }
 
     .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > li > a:hover {
-        color: #fffff;
+        color: #406e9e;
         padding: 22px 10px;
     }
 
@@ -54,7 +54,7 @@
 }
 
     .home-sec .overlay {
-        background: rgba(38, 57, 88, 0.89);
+        background: rgba(0, 0, 0, 0.89);
         min-height: 500px;
     }
 

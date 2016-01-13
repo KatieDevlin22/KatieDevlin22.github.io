@@ -1,5 +1,19 @@
-﻿body {
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+﻿/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+body {
+    font-family: 'Open Sans', sans-serif;
     line-height: 30px;
     font-size: 14px;
 }
@@ -20,8 +34,8 @@
 }
 
 #menu {
-    background-color: #fffff
-    color: #fffff;
+    background-color: rgba(28, 43, 75, 1);
+    color: #fff;
     font-size: 12px;
     font-weight: 900;
     letter-spacing: 1px;
@@ -34,7 +48,7 @@
 }
 
     .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > li > a:hover {
-        color: #fffff;
+        color: #FFF;
         padding: 22px 10px;
     }
 
@@ -42,7 +56,53 @@
 /*=====================================
   HOME STYLES 
     ===================================*/
+.home-sec {
+    padding-top: 10px;
+    padding-bottom: 60px;
+    background: url(../img/header.jpg) no-repeat center center;
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: #fff;
+    background-attachment: fixed;
+}
 
+    .home-sec .overlay {
+        background: rgba(38, 57, 88, 0.89);
+        min-height: 500px;
+    }
+
+    .home-sec h1 {
+        color: #fff;
+        font-weight: 900;
+        font-size: 50px;
+        text-transform: uppercase;
+        padding-bottom: 35px;
+    }
+
+    .home-sec h3 {
+        text-transform: uppercase;
+    }
+
+
+
+.set-flexi {
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+    -o-box-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0);
+    background-color: transparent;
+    border: 0px solid #000;
+    padding-top: 120px;
+}
+
+.flex-control-nav {
+    display: none!important;
+}
+
+.set-flexi a {
+    margin: 5px;
+}
 /*=====================================
   TAG LINE STYLES 
     ===================================*/
@@ -56,7 +116,7 @@
         font-size: 20px;
         font-weight: 900;
         padding: 5px 10px 10px 5px;
-        color: #406e9e;
+        color: #005E5A;
     }
 
         .tag-line h2 > i {

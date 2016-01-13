@@ -68,7 +68,7 @@ body {
 }
 
     .home-sec .overlay {
-        background: rgba(0, 0, 0, 0.89);
+        background: rgba(255, 255, 255, 0.89);
         min-height: 500px;
     }
 

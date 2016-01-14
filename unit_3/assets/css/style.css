@@ -69,8 +69,8 @@ body {
 
 .css-slideshow{
   position: relative;
-  max-width: 495px;
-  height: 370px;
+  max-width: 1919px;
+  height: 1098px;
   margin: 5em auto .5em auto;
 }
 .css-slideshow figure{
@@ -98,7 +98,7 @@ body {
   opacity: 1;
 }
 .css-slideshow-attr{
-  max-width: 495px;
+  max-width: 1919px;
   text-align: right;
   font-size: .7em;
   font-style: italic;

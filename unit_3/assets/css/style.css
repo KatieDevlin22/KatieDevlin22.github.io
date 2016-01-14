@@ -34,7 +34,7 @@ body {
 }
 
 #menu {
-    background-color: rgba(0, 62, 126, 1);
+    background-color: rgba(28, 43, 75, 1);
     color: #fff;
     font-size: 12px;
     font-weight: 900;
@@ -56,8 +56,6 @@ body {
 /*=====================================
   HOME STYLES 
     ===================================*/
-
- ​
 .home-sec {
     padding-top: 10px;
     padding-bottom: 60px;
@@ -70,7 +68,7 @@ body {
 }
 
     .home-sec .overlay {
-        background: rgba(255, 255, 255, 0.45);
+        background: rgba(38, 57, 88, 0.89);
         min-height: 500px;
     }
 

@@ -59,7 +59,7 @@ body {
 .home-sec {
     padding-top: 10px;
     padding-bottom: 60px;
-    background: no-repeat center center;
+    background: url(../img/header.jpg) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -68,7 +68,7 @@ body {
 }
 
     .home-sec .overlay {
-        background: rgba(255, 255, 255, 0.25);
+        background: rgba(38, 57, 88, 0.89);
         min-height: 500px;
     }
 

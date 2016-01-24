@@ -108,7 +108,7 @@ body {
     ===================================*/
 
 .tag-line {
-    background: #003e7e;
+    background: #fff;
     color: #000;
 }
 
@@ -116,7 +116,7 @@ body {
         font-size: 20px;
         font-weight: 900;
         padding: 5px 10px 10px 5px;
-        color: #005E5A;
+        color: #003e7e;
     }
 
         .tag-line h2 > i {

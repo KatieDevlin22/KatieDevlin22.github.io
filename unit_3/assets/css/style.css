@@ -73,7 +73,7 @@ body {
     }
 
     .home-sec h1 {
-        color: #fff;
+        color: #000;
         font-weight: 900;
         font-size: 50px;
         text-transform: uppercase;
@@ -108,7 +108,7 @@ body {
     ===================================*/
 
 .tag-line {
-    background: #E9E9E9;
+    background: #003e7e;
     color: #000;
 }
 

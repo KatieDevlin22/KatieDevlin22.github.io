@@ -2811,8 +2811,8 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: #fff;
-  background-color: #428bca;
-  border-color: #357ebd;
+  background-color: #ffd200;
+  border-color: #fff;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -3879,10 +3879,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 50px;
-  padding: 15px 15px;
+  height: 60px;
+  padding: 5px 5px;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 60px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {

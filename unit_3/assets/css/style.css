@@ -110,8 +110,8 @@ body {
     ===================================*/
 
 .tag-line {
-    background: #000;
-    color: #000;
+    background: rgba(0, 62, 126, 0.5);
+    color: #003E7E;
 }
 
     .tag-line h2 {

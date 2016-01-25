@@ -151,6 +151,9 @@ h1::after {
     padding: 30px;
 }
 
+.calendar-text { margin-top: .3em; }
+.file-text { margin-top: .2em; }
+
 .icon-round-border {
     border: 10px double #1A94C4;
     text-align: center;

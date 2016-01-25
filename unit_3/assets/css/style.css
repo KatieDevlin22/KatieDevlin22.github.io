@@ -110,7 +110,7 @@ body {
     ===================================*/
 
 .tag-line {
-    background: rgba(0, 62, 126, 0.15);
+    background: rgba(0, 62, 126, 0.25);
     color: #003E7E;
 }
 
@@ -118,7 +118,7 @@ body {
         font-size: 20px;
         font-weight: 900;
         padding: 5px 10px 10px 5px;
-        color: #FFF;
+        color: #003E7E;
     }
 
         .tag-line h2 > i {

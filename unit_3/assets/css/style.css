@@ -153,9 +153,9 @@ h1::after {
 
 
 .icon-round-border {
-    border: 15px double #1A94C4;
+    border: 5px double #1A94C4;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 5px;
     height: 100px;
     width: 100px;
     border-radius: 50%;

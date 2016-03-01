@@ -236,6 +236,60 @@ h1::after {
     }
 
 /*=====================================
+  ELIGIBILITY SECTION 
+  ===================================*/
+.eligibility-div {
+    padding: 30px;
+}
+
+
+.icon-round-border {
+    border: 15px double #1A94C4;
+    text-align: center;
+    padding-top: 20px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    cursor: pointer;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+
+    .icon-round-border:hover {
+        color: #fff;
+        border: 10px double #fff;
+        background-color: #1A94C4;
+        -webkit-transition: 0.3s;
+        -moz-transition: 0.3s;
+        -o-transition: 0.3s;
+        transition: 0.3s;
+    }
+
+.eligibility-div hr {
+    border: 1px solid #1A94C4;
+}
+
+.eligibility-div h3 {
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.eligibility-div p {
+    padding-top: 10px;
+}
+
+.btn-set {
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    margin-bottom: 20px;
+}
+
+
+/*=====================================
   CONTACT STYLES 
   ===================================*/
 #contact-sec {

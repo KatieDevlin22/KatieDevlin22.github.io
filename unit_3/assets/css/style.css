@@ -200,6 +200,17 @@ h1::after {
 /*=====================================
   FACULTY STYLES 
   ===================================*/
+div.c-wrapper{
+    width: 80%; /* for example */
+    margin: auto;
+}
+
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+width: 100%; /* use this, or not */
+margin: auto;
+}
+
 #faculty-sec {
     background-color: #000;
     color: #fff;
